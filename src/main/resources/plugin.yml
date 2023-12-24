@@ -1,0 +1,4 @@
+name: Activator
+version: '${project.version}'
+main: plugin.activator.Activator
+api-version: '1.20'

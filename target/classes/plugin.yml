@@ -1,0 +1,4 @@
+name: Activator
+version: '1'
+main: plugin.activator.Activator
+api-version: '1.20'
