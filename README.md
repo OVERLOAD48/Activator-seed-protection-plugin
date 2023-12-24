@@ -3,5 +3,3 @@
 ## Activator the minecraft world seed protection plugin
 Introducing Activator, the world seed protection plugin crafted to preserve the integrity of your server. Should any player accidentally or wilful disclose the world seed in the chat, Activator swiftly responds by imposing an immediate IP ban on the responsible party. This ensures the utmost confidentiality of your world seed, fostering a secure and enjoyable gaming environment for all.
 
-## How to setup?
-Just put this plugin in your minecraft server's plugin folder. No need to configurations.
